@@ -1,0 +1,29 @@
+body, html {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d5e1ef;
+
+} 
+.card {
+padding: 4%;
+background-color: white; 
+border-radius: 3%; 
+}
+img{
+    border-radius: 3%;
+}
+.card-title{
+    font-size: large;
+    font-weight: 1000   ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 105%;
+    color: #000000;
+    
+}
+.card-subtitle{
+    text-align: center;
+    font-size:small;
+}
+  
